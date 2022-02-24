@@ -1,6 +1,6 @@
 {
   "name": "@arkarn2020/pavanputra",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "easy react component library for any one to use",
   "scripts": {
     "build": "rollup -c"
