@@ -1,5 +1,5 @@
 {
-  "name": "pavanputra",
+  "name": "@arkarn2020/pavanputra",
   "version": "0.0.1",
   "description": "easy react component library for any one to use",
   "scripts": {
@@ -28,5 +28,8 @@
   "files": [
     "dist"
   ],
-  "types": "./dist/index.d.ts"
+  "types": "./dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/arkarn2020"
+  }
 }
